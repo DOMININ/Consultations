@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E543C8F3-5A9A-491C-A499-8AD432D4F0A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myProject/Controllers/PatientController.cs">
+    <Files>
+      <File FileName="myProject/Controllers/PatientController.cs" Line="20" Column="1" />
+      <File FileName="myProject/Models/Patient.cs" Line="13" Column="48" />
+      <File FileName="myProject/Models/Consultation.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myProject" expanded="True">
+            <Node name="myProject" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PatientController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.myProject PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
